@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,40:2563EB,100:06B6D4&height=200&section=header&text=Adham%20Choriyev&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Telegram%20Bots%20%26%20Mini%20Apps%20%7C%20Robotics&descSize=16&descAlignY=60&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,40:2563EB,100:06B6D4&height=200&section=header&text=Adham%20Choriyev&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Telegram%20Bots%20and%20Mini%20Apps%20%7C%20Robotics&descSize=16&descAlignY=60&descColor=ffffff"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Python+%26+Node.js+Backend+Developer+%F0%9F%9A%80;Telegram+Bots+%7C+Aiogram+3+%7C+Telegraf+%F0%9F%A4%96;Django+REST+%7C+Express.js+%7C+PostgreSQL+%F0%9F%97%84%EF%B8%8F;Arduino+Robotics+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
@@ -117,7 +117,11 @@ I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds ba
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/06B6D4/Adix7pro" alt="Contribution chart"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adix7pro/Adix7pro/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adix7pro/Adix7pro/output/snake.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/Adix7pro/Adix7pro/output/snake-dark.svg" />
+  </picture>
 </p>
 
 ---
