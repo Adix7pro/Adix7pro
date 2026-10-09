@@ -23,7 +23,7 @@
 
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Adix7pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=06B6D4&icon_color=7928ca"/>
 
-I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds backends, REST APIs, **Telegram bots and Mini Apps** that real businesses use every day.
+I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds backends, REST APIs, **Web Sites, Applications, Telegram bots and Mini Apps** that real businesses use every day.
 
 - 💼 **Web Developer** at **UYDA (Gold Dishes LLC)**
 - 🤖 Built the **UYDA Loyalty** Telegram bot, Mini App and **AdsBOT**
