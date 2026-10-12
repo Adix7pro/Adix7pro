@@ -126,12 +126,30 @@ I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds ba
 
 ---
 
-## 🤝 Let's Connect
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:adhamchoriyev234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/adham-choriyev-a43959288"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
+  <a href="https://t.me/AdhamAI"><img src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white" height="48" width="48" alt="Telegram"/></a>
+  <a href="https://github.com/Adix7pro"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adham-choriyev-a43959288"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/AdhamAI"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:adhamchoriyev234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%" alt="Coding GIF"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<p align="center"><sub><b>YOU CAN REACH ME VIA FOLLOWING SOCIAL HANDLES FOR ANY INQUIRIES</b></sub></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adham-choriyev-a43959288"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" height="36" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://t.me/AdhamAI"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="36" alt="Telegram"/></a>&nbsp;
+  <a href="mailto:adhamchoriyev234@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="36" alt="Gmail"/></a>&nbsp;
+  <a href="https://github.com/Adix7pro"><img src="https://img.icons8.com/fluency/48/github.png" height="36" alt="GitHub"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,60:2563EB,100:7928ca&height=120&section=footer"/>
