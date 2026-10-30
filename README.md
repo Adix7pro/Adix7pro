@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adham-choriyev-a43959288"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>&nbsp;
-  <a href="https://t.me/AdhamAI"><img src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white" height="36" width="36" alt="Telegram"/></a>&nbsp;
+  <a href="https://t.me/Adham_AI"><img src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white" height="36" width="36" alt="Telegram"/></a>&nbsp;
   <a href="mailto:adhamchoriyev234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>&nbsp;
   <a href="https://github.com/Adix7pro"><img src="https://skillicons.dev/icons?i=github" height="36"/></a>
 </p>
@@ -21,16 +21,17 @@
 
 ## 🚀 About Me
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Adix7pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=06B6D4&icon_color=7928ca"/>
+<img align="right" width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adix7pro&theme=tokyonight"/>
 
-I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds backends, REST APIs, **Web Sites, Applications, Telegram bots and Mini Apps** that real businesses use every day.
+I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds backends, REST APIs, **websites, CRM systems, Telegram bots and Mini Apps** that real businesses use every day.
 
 - 💼 **Web Developer** at **UYDA (Gold Dishes LLC)**
-- 🤖 Built the **UYDA Loyalty** Telegram bot, Mini App and **AdsBOT**
+- 🤖 Built the **UYDA Loyalty** Telegram bot, Mini App, **AdsBOT** and **CRM Company**
 - 🛰️ Authored **AdiSevEn System Diagnostic** — a copyrighted `.exe` that integrates Python with the **NS-3** network simulator over SSH
-- 🎓 **TUIT** (Muhammad al-Khorazmi), Telecommunication Technologies — **GPA 4.1**
+- 🎓 **TUIT** (Muhammad al-Khorazmi), Bachelor in Telecommunication Technologies, 2022 – 2026 — **GPA 4.1**
 - 🏅 **ZTE Next Generation Scholarship** recipient
 - 📝 2 theses published at international conferences
+- 🥇 Graduated high school with a **gold medal**, specializing in informatics
 - 🌍 Uzbek · English (B2) · Russian (A2)
 
 <br clear="right"/>
@@ -52,8 +53,14 @@ I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds ba
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![1C / OData](https://img.shields.io/badge/1C%20%2F%20OData%20%28basic%29-FFD100?style=for-the-badge)
+
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🤖 Telegram Bots
 ![Aiogram 3](https://img.shields.io/badge/Aiogram%203-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
@@ -84,11 +91,31 @@ I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds ba
 
 ## 💼 Experience
 
-| Period | Role | Company |
+| Period | Role | Company | Highlights |
+|:--|:--|:--|:--|
+| 2026 – now | 🧑‍💻 Web Developer | **UYDA (Gold Dishes LLC)** | UYDA Loyalty bot, Mini App, AdsBOT, CRM Company |
+| 2025 – 2026 (6 months) | 🧑‍💻 Web Developer | **Online Developer LLC** | AdiSevEn System Diagnostic (copyrighted software) |
+| 2024 – 2025 | 🧑‍💻 Web Developer | **RoboticsLab LLC** | — |
+
+---
+
+## 🎓 Education
+
+| Period | Institution | Program |
 |:--|:--|:--|
-| 2026 – now | 🧑‍💻 Web Developer | **UYDA (Gold Dishes LLC)** |
-| 2025 – 2026 | 🧑‍💻 Web Developer | **Online Developer LLC** |
-| 2024 – 2025 | 🧑‍💻 Web Developer | **Robotics Lab LLC** |
+| 2022 – 2026 | **Tashkent University of Information Technologies** named after Muhammad al-Khorazmi | Bachelor, Telecommunication Technologies — GPA 4.1 |
+| 2023 – 2025 | **Everest Language Center** | English |
+| 2022 – 2023 | **Najot Ta'lim** | Python Backend Developer course |
+
+---
+
+## 🏆 Achievements & Publications
+
+- 📜 **Software copyright** for AdiSevEn System Diagnostic (2025 – 2026)
+- 🏅 **ZTE Next Generation Scholarship** recipient (2024 – 2025)
+- 📝 Thesis: *The Role of the Python Programming Language in the Economies of Developing Countries* — international conference
+- 📝 Thesis: *The Role of Websites in the Field of Education* — international conference
+- 🥇 High school **gold medal** and red certificate, specialization in informatics (2021 – 2022)
 
 ---
 
@@ -97,14 +124,18 @@ I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds ba
 | Project | Description | Stack |
 |:--|:--|:--|
 | 🎁 **UYDA Loyalty Bot + Mini App** | Loyalty system: Telegram bot, Mini App and AdsBOT for a real business | Node.js · Telegraf · PostgreSQL |
+| 🏢 **CRM Company** | CRM websites and application | Web · Application |
 | 🛰️ **AdiSevEn System Diagnostic** | Copyrighted `.exe` that diagnoses data-transmission devices and networks via NS-3 over SSH | Python · NS-3 · SSH |
 | 📨 [**zayafka_bot**](https://github.com/Adix7pro/zayafka_bot) | Telegram bot + website + Web App | JavaScript |
+| 🛒 **E-commerce** | Login / register and email messages from users to admin | Backend |
 | 🐱 [**HouseOfCats**](https://github.com/Adix7pro/HouseOfCats) | Auth (login / register), REST API | Django REST Framework |
 | 📰 [**ITNews**](https://github.com/Adix7pro/ITNews) | IT news portal with admin & user roles | Django |
 | 📚 [**Library**](https://github.com/Adix7pro/Library) | Library management API | Django REST Framework |
 | 🎬 [**MediaTV_bot**](https://github.com/Adix7pro/MediaTV_bot) | Get films right inside Telegram | Python · Aiogram |
+| 🔊 **Text to Audio bot** | Turn text into audio in Telegram | Python · Aiogram 3 |
 | 🔳 [**QRCode_bot**](https://github.com/Adix7pro/QRCode_bot) | Send a link → get a QR code | Python · Telebot |
 | 🌐 [**Translator_Bot**](https://github.com/Adix7pro/Translator_Bot) | Multi-language translator bot | Python · Telebot |
+| ✅ [**ToDo**](https://github.com/Adix7pro/todofirst) | First project: helps people organize their lives | Python · Django |
 | 🚗 **Robocars** | Line-tracking, Bluetooth, voice-controlled and waiter cars | Arduino · C++ |
 
 ---
@@ -112,7 +143,7 @@ I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds ba
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adix7pro&layout=compact&theme=tokyonight&hide_border=true&title_color=06B6D4"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adix7pro&theme=tokyonight"/>
   <img height="165" src="https://streak-stats.demolab.com?user=Adix7pro&theme=tokyonight&hide_border=true&ring=7928ca&fire=06B6D4&currStreakLabel=06B6D4"/>
 </p>
 
@@ -131,7 +162,7 @@ I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds ba
 <p align="left">
   <a href="mailto:adhamchoriyev234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/adham-choriyev-a43959288"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
-  <a href="https://t.me/AdhamAI"><img src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white" height="48" width="48" alt="Telegram"/></a>
+  <a href="https://t.me/Adham_AI"><img src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white" height="48" width="48" alt="Telegram"/></a>
   <a href="https://github.com/Adix7pro"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>
 </p>
 
@@ -147,7 +178,7 @@ I'm a **Backend Developer** from **Tashkent, Uzbekistan 🇺🇿** who builds ba
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adham-choriyev-a43959288"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" height="36" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://t.me/AdhamAI"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="36" alt="Telegram"/></a>&nbsp;
+  <a href="https://t.me/Adham_AI"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="36" alt="Telegram"/></a>&nbsp;
   <a href="mailto:adhamchoriyev234@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="36" alt="Gmail"/></a>&nbsp;
   <a href="https://github.com/Adix7pro"><img src="https://img.icons8.com/fluency/48/github.png" height="36" alt="GitHub"/></a>
 </p>
